@@ -1,2 +1,4 @@
-# checkIMEI_js
-checkIMEI(JavaScript)
+# checkIMEI
+IMEI check function
+1. checkIMEI(JavaScript)
+2. checkIMEI(PHP)
